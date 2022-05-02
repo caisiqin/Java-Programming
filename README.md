@@ -1,9 +1,9 @@
 # Description
-
-### Compare two approaches for Java programming
+## JavaStreamDemo
 
 Given Person class which has 3 features about a person, `name`,`age`,`gender`.
 Say we want to **get all data of females**.
+Let's ompare two approaches for Java programming
 
 #### Imperative approach ❌
 ```java
