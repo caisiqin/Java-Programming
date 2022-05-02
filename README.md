@@ -1,5 +1,3 @@
-# Java-Programming
-
 # Description
 
 ### Compare two approaches for Java programming
